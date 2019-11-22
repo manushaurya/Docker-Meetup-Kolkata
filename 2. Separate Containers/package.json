@@ -1,0 +1,14 @@
+{
+  "name": "docker-meetup-2",
+  "version": "1.0.0",
+  "description": "This Demonstrates that every container has its own runtime. There is no connection between two container runtimes unless mentioned explicitly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhik Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
